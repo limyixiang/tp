@@ -89,6 +89,7 @@ All commands that use the indices shown in the displayed contact list can also b
 Shows a list of all persons stored in ClubConnect's contact list.
 
 Format: `list`
+
 ![result for 'list'](images/list.png)
 
 
@@ -279,6 +280,7 @@ Examples:
 Shows a list of all events stored in ClubConnect's event list.
 
 Format: `list_events`
+
 ![result for 'list events'](images/listEventsResult.png)
 
 
@@ -406,9 +408,10 @@ Examples:
 ### Viewing help : `help`
 
 Shows a message explaining how to access the help page.
-![help message](images/helpMessage.png)
 
 Format: `help`
+
+![help message](images/helpMessage.png)
 
 
 ### Clearing all entries : `clear`
@@ -416,6 +419,7 @@ Format: `help`
 Clears all entries from ClubConnect.
 
 Format: `clear`
+
 ![clear message](images/clearMessage.png)
 
 
